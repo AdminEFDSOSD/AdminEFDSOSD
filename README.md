@@ -9,7 +9,7 @@ Official GitHub space for **EFDSOE** (AdminEFDSOSD) — advancing open standards
 - **Academic & Policy Transfer:** Joint working groups, symposia, and practice labs in cooperation with our foundation.
 
 ### Channels & Domains
-- **Forum Portal:** [EFDSOE.online](https://EFDSOE.online)[cite: 4, 11]
+- **Forum Portal:** [EFDSOE.online](https://EFDSOE.online)
 - **Foundation:** [fseda.eu](https://fseda.eu) · [fseda.org](https://fseda.org)· [fseda.online](https://fseda.online)
 - **Fediverse (Mastodon):** [@efdsosd@mastodon.social](https://mastodon.social/@efdsosd)
 - **LinkedIn:** [European Forum for Digital Sovereignty & Open Source Development](https://www.linkedin.com)
